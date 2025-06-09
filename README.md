@@ -1,7 +1,7 @@
-## Hi there 👋
+## 自己紹介
 
-I'm RT, a developer exploring backend, infrastructure, and security engineering.
+現在、Webアプリの個人開発に取り組んでいます。
+Python（Flask）で簡単なWebアプリを作成し、現在はデータベースを用いたアプリの開発にも挑戦中です（設計段階）。
 
-- 🔭 I’m currently working on learning Python and Docker.
-- 🌱 I’m currently learning FastAPI and Terraform.
-- 📫 How to reach me: [GitHub Issues](https://github.com/asdfmz)
+また、以前からセキュリティ分野にも関心があり、情報処理安全確保支援士試験も受験しました（合否はまだ分かりませんが、良い勉強の機会となりました）。
+今後も、開発や学習を通じて、関心のある分野への理解を少しずつ深めていきたいと考えています。
